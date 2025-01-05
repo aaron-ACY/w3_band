@@ -22,3 +22,9 @@ Phân tích các thành phần gồm có:
 - Image
 
 4 Footer
+
+<!-- Màn hình -->
+
+P: >= 1024px
+Table:>= 740px & 1024px
+Mobile: < 740px
